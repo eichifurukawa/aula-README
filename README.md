@@ -21,6 +21,14 @@ Github
 ## Descrição do projeto
 <p align="left">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<!-- pwd
+cd /diretorio'
+mkdir
+git clone link'
+git branch
+git checkout -b nome'
+git switch nome'
+ -->
 </p>
 
 <ul id="menu" align="left">
